@@ -271,7 +271,7 @@ body {
 /* Самолет */
 .plane-scene {
     position: absolute;
-    bottom: 36%;
+    bottom: 38%;
     right: 95px;
     z-index: 3;
 }
